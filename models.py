@@ -186,9 +186,7 @@ if __name__ == '__main__':
 
 
     nn.visualize_layer_weights('w1')
-    nn.visualize_layer_weights('w2')
-    nn.visualize_layer_weights('b1')
-    nn.visualize_layer_weights('b2')
+    
 
 
 
